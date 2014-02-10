@@ -1,0 +1,2 @@
+User defined citing threshold = 0.0
+User defined cited threshold = 0.0
